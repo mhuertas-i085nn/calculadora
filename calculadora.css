@@ -19,7 +19,7 @@ button {
 
 /*aplicando estilos a la pantalla*/
 #pantalla {
-    width: 320;
+    width: 320px;
     height: 70px;
     font-size: 35px;
     text-align: right;
